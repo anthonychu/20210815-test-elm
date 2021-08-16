@@ -1,0 +1,28 @@
+{
+  "name": "20210815-test-elm",
+  "version": "1.0.0",
+  "description": "This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elm-app start",
+    "build": "elm-app build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonychu/20210815-test-elm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonychu/20210815-test-elm/issues"
+  },
+  "homepage": "https://github.com/anthonychu/20210815-test-elm#readme",
+  "devDependencies": {
+    "create-elm-app": "^5.22.0"
+  }
+}
